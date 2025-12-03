@@ -4,12 +4,12 @@ MedExpert is an intelligent React.js application that helps users find appropria
 
 ## Features
 
-- 🔍 **Symptom Analysis**: Comprehensive symptom checking with support for multiple symptoms
-- 💊 **Medicine Recommendations**: Evidence-based medication suggestions with detailed information
-- 📋 **Detailed Prescriptions**: Complete prescription details including dosage, frequency, and duration
-- ⚡ **Quick & Easy**: User-friendly interface for quick symptom checking
-- 🛡️ **Safety First**: Always emphasizes consulting healthcare professionals
-- 📱 **Responsive Design**: Works seamlessly on all devices
+Symptom Analysis: Comprehensive symptom checking with support for multiple symptoms
+Medicine Recommendations : Evidence-based medication suggestions with detailed information
+Detailed Prescriptions: Complete prescription details including dosage, frequency, and duration
+Quick & Easy: User-friendly interface for quick symptom checking
+Safety First: Always emphasizes consulting healthcare professionals
+Responsive Design: Works seamlessly on all devices
 
 ## Technology Stack
 
