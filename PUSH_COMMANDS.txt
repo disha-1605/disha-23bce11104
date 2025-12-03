@@ -1,0 +1,35 @@
+========================================
+COPY AND PASTE THESE COMMANDS IN YOUR TERMINAL
+(Where git --version works)
+========================================
+
+# Navigate to project folder
+cd "C:\Users\acer\OneDrive\Desktop\web dev\project"
+
+# Initialize Git repository
+git init
+
+# Add remote repository
+git remote add origin https://github.com/disha-1605/disha-23bce11104.git
+
+# Add all files
+git add .
+
+# Create initial commit
+git commit -m "Initial commit: MedExpert - Expert System for Medicine Prescription"
+
+# Set main branch
+git branch -M main
+
+# Push to GitHub (you'll be prompted for credentials)
+git push -u origin main
+
+========================================
+AUTHENTICATION TIP:
+When asked for password, use a Personal Access Token:
+1. Go to: https://github.com/settings/tokens
+2. Generate new token (classic)
+3. Select 'repo' scope
+4. Copy token and use it as password
+========================================
+
